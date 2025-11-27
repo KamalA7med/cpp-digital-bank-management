@@ -1,0 +1,66 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (clsUtility.vcxproj, NewBankProject.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  NewBankProject.cpp
+D:\clsUtility\clsUtility\clsString.h(43,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'NewBankProject.cpp')
+  
+D:\clsUtility\clsUtility\clsString.h(48,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'NewBankProject.cpp')
+  
+D:\clsUtility\clsUtility\clsString.h(60,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'NewBankProject.cpp')
+  
+D:\clsUtility\clsUtility\clsString.h(197,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'NewBankProject.cpp')
+  
+D:\clsUtility\clsUtility\clsString.h(328,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'NewBankProject.cpp')
+  
+D:\clsUtility\clsUtility\clsString.h(376,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'NewBankProject.cpp')
+  
+D:\clsUtility\clsUtility\clsUser.h(193,12): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegister' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'NewBankProject.cpp')
+      D:\clsUtility\clsUtility\clsUser.h(24,11):
+      see declaration of 'clsUser::stLoginRegister'
+  
+D:\clsUtility\clsUtility\clsInputValiDate.h(43,10): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'NewBankProject.cpp')
+  
+D:\clsUtility\clsUtility\clsBankClient.h(178,9): warning C4240: nonstandard extension used: access to 'clsBankClient::stTranferRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'NewBankProject.cpp')
+      D:\clsUtility\clsUtility\clsBankClient.h(32,9):
+      see declaration of 'clsBankClient::stTranferRecord'
+  
+D:\clsUtility\clsUtility\clsBankClient.h(30,113): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'NewBankProject.cpp')
+  
+D:\clsUtility\clsUtility\clsBankClient.h(380,24): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'NewBankProject.cpp')
+  
+D:\clsUtility\clsUtility\clsBankClient.h(386,26): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'NewBankProject.cpp')
+  
+D:\clsUtility\clsUtility\clsTotalBalancesScreen.h(50,63): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'NewBankProject.cpp')
+  
+D:\clsUtility\clsUtility\clsAddNewUserScreen.h(119,11): warning C4129: 'P': unrecognized character escape sequence
+  (compiling source file 'NewBankProject.cpp')
+  
+D:\clsUtility\clsUtility\clsDeleteUser.h(24,17): warning C4129: 'P': unrecognized character escape sequence
+  (compiling source file 'NewBankProject.cpp')
+  
+D:\clsUtility\clsUtility\clsUpdateUserScreen.h(111,11): warning C4129: 'P': unrecognized character escape sequence
+  (compiling source file 'NewBankProject.cpp')
+  
+D:\clsUtility\clsUtility\clsFindUserScreen.h(23,17): warning C4129: 'P': unrecognized character escape sequence
+  (compiling source file 'NewBankProject.cpp')
+  
+D:\clsUtility\clsUtility\clsCurrency.h(27,17): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'NewBankProject.cpp')
+  
+D:\clsUtility\clsUtility\clsExchangeCurrencyMenuScreen.h(10,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'NewBankProject.cpp')
+  
+D:\clsUtility\clsUtility\clsBankClient.h(343,1): warning C4715: 'clsBankClient::Save': not all control paths return a value
+D:\clsUtility\clsUtility\clsUser.h(342,1): warning C4715: 'clsUser::Save': not all control paths return a value
+  clsUtility.vcxproj -> D:\clsUtility\x64\Debug\BankProject.exe
